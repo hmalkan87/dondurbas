@@ -2,6 +2,8 @@
 
 Döndürbaş arkadaşınızla sıkılıp ufak bir oyun ile anlık bir heyecan yaşamak istediğinizde oynayabileceğiniz basit ve zevkli bir oyun.
 
+   [HEMEN OYNA](/dondurbas)
+
 ### Nedir?
 
 Biri yeşil biri turuncu iki canavar sürekli olarak kendi çevrelerinde dönerler ve sadece ağızlarının bulunduğu tarafa doğru hareket edebilirler. 
@@ -13,4 +15,4 @@ Amaçları belli aralıklarla çıkan elmaları hüpletmektir. Bunu yapmak için
 Çok basit. Yeşil canavarın sahibi onu hareket ettirmek için klavyeden A tuşuna basar, turuncu canavarın sahibi ise ↑ tuşuna.
 
 ### Kim yaptı?
-Geliştiriciyi tanımak için [sitesini](https://hmalkan.biz) ziyaret edin.
+Geliştiriciyi tanımak için [sitesini](hmalkan.biz) ziyaret edin.
