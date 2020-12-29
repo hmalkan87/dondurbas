@@ -2,7 +2,7 @@
 
 Döndürbaş arkadaşınızla sıkılıp ufak bir oyun ile anlık bir heyecan yaşamak istediğinizde oynayabileceğiniz basit ve zevkli bir oyun.
 
-   [HEMEN OYNA](/dondurbas)
+   [HEMEN OYNA](/dondurbas/dondurbas)
 
 ### Nedir?
 
