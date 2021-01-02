@@ -8,8 +8,7 @@ Döndürbaş arkadaşınızla sıkılıp ufak bir oyun ile anlık bir heyecan ya
 
 Biri yeşil biri turuncu iki canavar sürekli olarak kendi çevrelerinde dönerler ve sadece ağızlarının bulunduğu tarafa doğru hareket edebilirler. 
 Amaçları belli aralıklarla çıkan elmaları hüpletmektir. Bunu yapmak için elmaya gövdelerinin değmesi yeterlidir.
-60(küsür) saniyede en fazla elma yiyen kazanır. 
-Şimdilik tekrar başlamak için sayfayı yenilemeniz gerekiyor.
+60 saniyede en fazla elma yiyen kazanır.
 
 Ha bu arada.. canavarın dönme hızı her elma yeyişinde biraz artar.
 
