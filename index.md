@@ -18,3 +18,6 @@ Ha bu arada.. canavarın dönme hızı her elma yeyişinde biraz artar.
 
 ### Kim yaptı?
 Geliştiriciyi tanımak için [sitesini](http://hmalkan.biz) ziyaret edin.
+
+
+<div align="center"><script language="Javascript" src="http://sa.sayaclar.com/c/s4.php?a=4rhtvlt&s=2a1"></script></div>
